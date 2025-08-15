@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="120" alt="Typing cursor" />
+</p>
+
+
+
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Shibani Debnath</span></h1>
 <h3 align="center">💻 Python Developer | Full Stack Web Developer | UI/UX Designer</h3>
 
