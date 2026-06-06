@@ -14,5 +14,4 @@ and AI systems that solve real-world problems.
 🐙 GitHub: @Shibani987
 
 📫 Contact: sd773064@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shibani987&show_icons=true&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shibani987&theme=github-dark)
