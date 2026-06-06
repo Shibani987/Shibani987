@@ -1,151 +1,117 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="260" width="260" alt="coding gif" />
-</p>
+# 👋 Hey, I'm Shibani Debnath
 
-<h1 align="center">👋 Hi, I'm Shibani Debnath</h1>
+### Full Stack Developer • AI Builder • Open Source Learner
 
-<h3 align="center">
-🚀 Full Stack Developer • Python Developer • AI Builder
-</h3>
+I enjoy building software that solves real problems.
 
-<p align="center">
-Building impactful software, AI-powered applications, and developer tools.
-</p>
+From web applications to AI-powered developer tools, I love turning ideas into products people can actually use.
 
-<p align="center">
-<a href="https://github.com/Shibani987">
-<img src="https://komarev.com/ghpvc/?username=Shibani987&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-</p>
+Currently focused on backend engineering, developer tooling, automation, and applied AI.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Building
 
-I'm a passionate **Full Stack Developer** who enjoys turning ideas into real-world products.
+### 👻 GhostFix
 
-🔹 Building scalable web applications using **Python, Django, React, and modern web technologies**
+An AI-powered runtime repair assistant designed to help developers diagnose and fix software errors automatically.
 
-🔹 Interested in **Artificial Intelligence, Developer Tools, Automation, and Open Source**
+GhostFix aims to:
 
-🔹 Winner of **JISTech2K25 Innovative Project Competition** 🏆
+* Detect runtime and build failures
+* Analyze stack traces
+* Identify root causes
+* Generate repair plans
+* Validate fixes before applying them
 
-🔹 Building **GhostFix** — an AI-powered runtime error detection and auto-repair CLI
+Supported ecosystems include:
 
-🔹 Love solving real-world problems through technology
-
-🎯 Current Goal: Create products that help developers and improve everyday lives.
-
----
-
-## 🏆 Highlights
-
-🏆 **1st Position – Innovative Project Competition, JISTech2K25 (2025)**
-
-💻 **Full Stack Developer**
-
-🤖 **AI & Automation Enthusiast**
-
-🌱 **Open Source Learner**
-
-🚀 **Building GhostFix**
+* Python
+* Django
+* Flask
+* FastAPI
+* React
+* Next.js
+* Node.js
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Achievements
+
+🥇 1st Place — Innovative Project Competition, JISTech2K25 (2025)
+
+Awarded for building **Nirbhaya**, a women safety platform featuring emergency SOS alerts and real-time location sharing.
+
+---
+
+## 🛠 Tech Arsenal
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+Python • JavaScript • SQL • C
 
-### Frameworks & Libraries
+### Backend
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge\&logo=django\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+Django • Django REST Framework • Flask • FastAPI
+
+### Frontend
+
+React • TailwindCSS • HTML • CSS
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
+PostgreSQL • MySQL • MongoDB • Firebase
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+Git • GitHub • Linux • Docker • Postman
 
 ---
 
-# 👻 Featured Project
+## 🚨 Featured Projects
 
-## GhostFix
+### Nirbhaya
 
-AI-powered terminal error watcher and auto-fixer.
+Women Safety Platform
 
-✨ Detects runtime and build errors
+* Emergency SOS system
+* Real-time location tracking
+* Firebase integration
+* Twilio-powered alerts
+* Django backend
 
-✨ Finds root causes automatically
+### LifeLink
 
-✨ Generates patches using AI
+Organ Donation Management Platform
 
-✨ Supports Python, Django, Flask, React, Node.js and Next.js
-
-🔗 Coming Soon
-
----
-
-# 🚨 Nirbhaya – Women Safety App
-
-🏆 JISTech2K25 Winner Project
-
-• Emergency SOS using Twilio API & Firebase
-
-• Real-time location sharing
-
-• Django-powered backend
-
-🔗 https://github.com/Shibani987/nirbhaya
+* Smart donor matching
+* Emergency donor requests
+* Authentication system
+* Dashboard and management tools
 
 ---
 
-# 🩸 LifeLink – Organ Donation Platform
+## 🌱 Currently Learning
 
-• Donor matching based on location and blood group
-
-• Emergency donor alerts
-
-• Secure authentication and dashboard
-
-🔗 https://github.com/Shibani987/LifeLink
+* AI Agents
+* LLM Fine-Tuning
+* Code Repair Systems
+* Distributed Systems
+* Software Architecture
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Mission
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shibani987&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shibani987&theme=tokyonight" height="170"/>
-</p>
+Build developer tools and intelligent software that reduce friction, save time, and make technology more accessible.
 
 ---
 
-## 🌐 Connect With Me
+### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shibani-debnath-84522834a/)
+GitHub: github.com/Shibani987
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shibani987)
+Email: [sd773064@gmail.com](mailto:sd773064@gmail.com)
 
-📧 **[sd773064@gmail.com](mailto:sd773064@gmail.com)**
-
-📍 **West Bengal, India**
+West Bengal, India
 
