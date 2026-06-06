@@ -25,7 +25,5 @@ and AI systems that solve real-world problems.
   <img src="https://streak-stats.demolab.com?user=Shibani987&theme=github-dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibani987&theme=github-dark"/>
-</p>
+
 
