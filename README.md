@@ -9,7 +9,8 @@ and AI systems that solve real-world problems.
 
 🌍 West Bengal, India
 
-🌐 Portfolio: https://shibani.dev
+🌐 Portfolio: https://portfolio-vavx.vercel.app/
+
 
 🐙 GitHub: @Shibani987
 
