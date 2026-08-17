@@ -1,34 +1,51 @@
 # 👋 Hi, I'm Shibani Debnath
 
-### Full Stack Developer @ Xorynx • AI Builder 
+### Python Backend & Full-Stack Developer • MCA Student
 
-I build scalable web applications, AI-powered products, and developer tools that solve real-world problems.
+I build scalable web applications, backend systems, REST APIs, and AI-powered solutions that solve real-world problems.
 
+### 💼 Experience
 
+- Software Developer at Xorynx
+- Web Development Intern at Zaalima Development Pvt. Ltd.
 
-💼 Full Stack Developer @ Xorynx
+### 🚀 Featured Projects
+- **Nirbhaya** — AI-powered women's safety platform
+- **LifeLink** — Organ donation and emergency health platform
 
-🤖 Building AI Products, Agents & Developer Tools
+### 🛠️ Tech Stack
 
-🚀 Currently Building:
+**Languages:**  
+Python • Java • JavaScript • C • SQL
 
-* GhostFix (AI Runtime Error Repair Agent)
-* CrimeGraph AI (Crime Intelligence Platform)
-* AI Virtual Try-On System
+**Frontend:**  
+HTML5 • CSS3 • React.js • Next.js • Tailwind CSS • Bootstrap
 
-### Tech Stack
+**Backend:**  
+Django • Django REST Framework • Flask • Node.js • Express.js
 
-Python • Django • FastAPI • Flask• React.js • Next.js
+**Databases:**  
+PostgreSQL • MySQL • MongoDB • Firebase
 
-PostgreSQL • MongoDB • Docker • Git
+**Tools:**  
+Git • GitHub • Docker
 
+**AI/ML:**  
 Machine Learning • Deep Learning • AI Agents
 
-🌍 West Bengal, India
+### 🏆 Achievements
+
+- 🥇 1st Position — Innovative Project Competition, JISTech2K25
+- 🚀 Inventor in two Patent Application Publications
+- 📄 Contributor to an IEEE-published research paper
+
+### 🌐 Connect With Me
 
 🌐 Portfolio: https://portfolio-vavx.vercel.app/
 
-📫 Contact: [sd773064@gmail.com](mailto:sd773064@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/shibani-debnath-84522834a/
+
+📫 Email: sd773064@gmail.com
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shibani987&theme=github-dark"/>
